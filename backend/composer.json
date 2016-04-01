@@ -1,0 +1,13 @@
+{
+    "name": "root/backend",
+    "require": {
+        "peej/tonic": "3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrey Lunyov",
+            "email": "andrey.lunyov@stuzo.com"
+        }
+    ]
+}
